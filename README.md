@@ -2,7 +2,7 @@
 EDA of countries
 # To find the following
 
-1)10 countries with largest Area and Population
+1)10 countries with largest Area and Population<br>
 2)Countries with bottom 10 values of Area(sq miles) and Population
 3)Derive all important statistical observations.
 4)How is area related to population?
